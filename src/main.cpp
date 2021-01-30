@@ -10,8 +10,8 @@
 #include "motor.h"
 
 
-const char* ssid       = "IHOME";
-const char* password   = "wendie11";
+const char* ssid       = "SSID";
+const char* password   = "PASSWORD";
 IPAddress ip;
 
 const char* ntpServer = "pool.ntp.org";
