@@ -1,0 +1,9 @@
+C:/Users/Corn/Documents/PlatformIO/Projects/Shadebot/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Corn/Documents/PlatformIO/Projects/Shadebot/build/CMakeFiles/Experimental.dir
+C:/Users/Corn/Documents/PlatformIO/Projects/Shadebot/build/CMakeFiles/Continuous.dir
+C:/Users/Corn/Documents/PlatformIO/Projects/Shadebot/build/CMakeFiles/Nightly.dir
+C:/Users/Corn/Documents/PlatformIO/Projects/Shadebot/build/CMakeFiles/PACKAGE.dir
+C:/Users/Corn/Documents/PlatformIO/Projects/Shadebot/build/CMakeFiles/shadebot.dir
+C:/Users/Corn/Documents/PlatformIO/Projects/Shadebot/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Corn/Documents/PlatformIO/Projects/Shadebot/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Corn/Documents/PlatformIO/Projects/Shadebot/build/CMakeFiles/ZERO_CHECK.dir
