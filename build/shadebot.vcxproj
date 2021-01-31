@@ -305,7 +305,7 @@ if %errorlevel% neq 0 goto :VCEnd</Command>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="C:\Users\Corn\Documents\PlatformIO\Projects\Shadebot\main.cpp" />
+    <ClCompile Include="C:\Users\Corn\Documents\PlatformIO\Projects\Shadebot\src\main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="C:\Users\Corn\Documents\PlatformIO\Projects\Shadebot\build\ZERO_CHECK.vcxproj">
